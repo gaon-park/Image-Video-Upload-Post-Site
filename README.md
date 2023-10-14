@@ -30,12 +30,12 @@
 1. Login Page
 	1. Keep me signed in 버튼을 통해 localStorage 관리	
 	2. Ajax를 통해 페이지 전환 없이 아이디 중복성 체크
-	   ![[Pasted image 20231014213428.png]]
+	   ![image](https://github.com/gaon-park/Image-Video-Upload-Post-Site/assets/52269983/cca87ed2-3dbf-4a76-a92f-5a182a826f58)
 2. User Informatin Page
 	1. 프로필 사진 변경
 	2. 소개 변경
 	3. 패스워드 변경
-	   ![[Pasted image 20231014213134.png]]
+	   ![image](https://github.com/gaon-park/Image-Video-Upload-Post-Site/assets/52269983/f15be269-cbab-4d2f-96b7-a40519c3643c)
 3. Profile Page
 	1. 콘텐츠에 대한 정보
 	2. 썸네일 이미지
@@ -44,11 +44,12 @@
 	   ![](https://lh3.googleusercontent.com/IpIhphhMY9bUV-lqpnvDYLevEImZd0tGmCLQrxMZLBLsfACrX0G99C_jVXJMLVwkL_-3XzVhaY8uujckcAh10c161eR99JhVTxN9yxtubw7sE5tdbaFPI141UghbXGThCIHIu16ILWQey1K7GxRFUOoq=s2048)
 4. Upload Page
 	1. Dropzone과 Google API를 이용한 업로드 편의성
-	   ![[Pasted image 20231014213311.png]]
+	   ![image](https://github.com/gaon-park/Image-Video-Upload-Post-Site/assets/52269983/1c2c431c-af58-4b2f-9350-1cbe43ed5d8d)
 5. Main Page
 	1. 사용자별 좋아요(♥)와 댓글 기능
 	2. Scroll Event에 따른 페이징 기능
-	   ![[Pasted image 20231014213604.png]]
+	   ![image](https://github.com/gaon-park/Image-Video-Upload-Post-Site/assets/52269983/182ce834-521c-4211-9a09-c3459b2ddd5e)
 6. Search Page
 	1. 위치 정보 or 텍스트 내용의 검색 기능
-	   ![[Pasted image 20231014213636.png]]
+	   ![image](https://github.com/gaon-park/Image-Video-Upload-Post-Site/assets/52269983/7edaf5be-d4ab-4616-a59b-3ce71691469b)
+
